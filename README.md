@@ -1,9 +1,9 @@
-Привет всем1  👋
+Это Githab ART-tomson  
 
 
-**tomsonkah-art/tomsonkah-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tomsonkah-art/tomsonkah-art** is a ✨ART-tomson ✨ 
 
-Here are some ideas to get you started:
+Скоро все опишу! а пока пойду учить как это сделать
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
